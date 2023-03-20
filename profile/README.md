@@ -12,9 +12,9 @@ Bienvenidos 👋
 
 ### Tópicos principales del trimestre
 
-:point_right: `Fundamentos de JavaScript `
+:point_right: `Repaso a los fundamentos de JavaScript `
 
-:point_right: `Objetos`
+:point_right: `Objetos`, `Prototipos`, `Clases`, `JSON`
 
 :point_right: `Procesos asíncronos`
 
