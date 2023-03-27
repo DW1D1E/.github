@@ -22,4 +22,4 @@ Bienvenidos 👋
 
 ---
 
-🧙 Todo el poderío de `GitHub` en sus README.md viene de [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - [`+ info - sólo participantes del grupo`](https://github.com/DW1D1E/markdown)
+🧙 Todo el poderío de `GitHub` en sus README.md viene de [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
